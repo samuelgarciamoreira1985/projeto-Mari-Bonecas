@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+* {
+    width: 100vw;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    text-align: justify;
+}
+
+body {
+
+}
+
+header {
+    background-color: rgb(109, 26, 26);
+}
+
+nav {
+    background-color: green;
+}
+
+main {
+    
+}
+
+footer {
+    color: white;
+    background-color: black;
+}
