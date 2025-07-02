@@ -8,7 +8,18 @@
 }
 
 #logo_home {
-    background: url('../imagens/imagem_Mari_Bonecas.png') no-repeat left;
+    
+}
+
+#logo_home > img {
+    width: 100px;
+    margin: 10px 50px;
+    background: no-repeat;
+}
+
+#ibusca_produto {
+    align-items: center;
+    border-radius: 10;
 }
 
 body {
